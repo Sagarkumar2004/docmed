@@ -128,7 +128,7 @@
 .homeImage{
     width: auto;
     height: 80vh;
-    background-image:  radial-gradient(circle at left, rgb(31, 202, 255), transparent),url(/Image/p9.jpg);
+    background-image:  radial-gradient(circle at left, rgb(31, 202, 255), transparent),url(Image/p9.jpg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -151,7 +151,7 @@
     height: 300px;
     display: flex;
     flex-direction: row;
-    background-image:  radial-gradient(circle at left, rgb(31, 202, 255), transparent),url(/Image/p7.jpg);
+    background-image:  radial-gradient(circle at left, rgb(31, 202, 255), transparent),url(Image/p7.jpg);
     background-position: center;
     background-size: cover;
     background-blend-mode: darken;
@@ -163,7 +163,7 @@
     height: 300px;
     display: flex;
     flex-direction: row;
-    background-image:  radial-gradient(circle at left, rgb(31, 202, 255), transparent),url(/Image/p6.jpg);
+    background-image:  radial-gradient(circle at left, rgb(31, 202, 255), transparent),url(Image/p6.jpg);
     background-position: center;
     background-size: cover;
     background-blend-mode: darken;

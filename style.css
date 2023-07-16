@@ -9,12 +9,12 @@
     height: 100vh;
     position: fixed;
     display: block; 
-    z-index: 99
+    z-index: 99;
 }
 
 #loading-image{
    width: 100vw;
-   height: 60vh;
+   height: 100vh;
     mix-blend-mode: multiply;
     margin: auto;
     z-index: 100;
